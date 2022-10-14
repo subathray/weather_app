@@ -1,0 +1,20 @@
+header{
+    color: red;
+}
+a{
+    color:grey;
+    text-decoration: none;
+    padding-right: 15px;
+
+}
+
+footer{
+    margin-top: 16px;
+    border-top: 1px #eeeeee solid;
+    color: grey;
+}
+
+div{
+    margin-bottom: 16px;
+}
+

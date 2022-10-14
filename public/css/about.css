@@ -1,0 +1,25 @@
+#profile{
+    height: 100px;
+    width: 100px;
+
+}
+
+header{
+    color: red;
+}
+
+a{
+    color:grey;
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+footer{
+    margin-top: 16px;
+    border-top: 1px #eeeeee solid;
+    color: grey;
+}
+
+div{
+    margin-bottom: 16px;
+}6a0b168e830da222dc360ee9ddbc54ac
